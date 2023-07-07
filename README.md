@@ -8,4 +8,6 @@ Introducción a Machine Learning con Scikit-Learn. Conjuntos de training Test, p
 Prophet_Predecir_el_valor_de_Bitcoin.jpynb Librería para predecir series temporales, ha sido desarrollado por Facebook para permitir realizar predicciones futuras temporales, regresión lineal, prediccion del valor del Bitcon.
 M5_09_Folium.ipynb Librería para poder visualizar e interactuar distintos mapas dinámicos, utilizando la API para datos geoespaciales
 
+M5_09_Folium.ipynb Importar dtos de pandas read_csv(). Crear un objeto folium utilizando la librería del mismo nombre para añadir diversos puntos geolocalizados que nos permiten fijar posiciones utilizando Map y la localización con coordenadas. Hemos utilizado los primeros 100 y cruzado estos datos con iloc.
+M5_SPACEX2_6_Machine_Learning_Predicciones Solucion.ipynb
 04072023
