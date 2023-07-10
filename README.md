@@ -10,4 +10,7 @@ M5_09_Folium.ipynb Librería para poder visualizar e interactuar distintos mapas
 
 M5_09_Folium.ipynb Importar dtos de pandas read_csv(). Crear un objeto folium utilizando la librería del mismo nombre para añadir diversos puntos geolocalizados que nos permiten fijar posiciones utilizando Map y la localización con coordenadas. Hemos utilizado los primeros 100 y cruzado estos datos con iloc.
 M5_SPACEX2_6_Machine_Learning_Predicciones Solucion.ipynb
+SpaceX_4_EDA_with_Data_Visualization
+M5_SPACEX2_6_Machine_Learning_Predicciones
+
 04072023
