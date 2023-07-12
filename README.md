@@ -10,5 +10,6 @@ M5_09_Folium.ipynb Importa dtos de pandas read_csv(). Crear un objeto folium uti
 M5_SPACEX2_6_Machine_Learning_Predicciones Solucion.ipynb
 SpaceX_4_EDA_with_Data_Visualization
 M5_SPACEX2_6_Machine_Learning_Predicciones
+M6-04-Programación funcional.ipynb Funciones Lambda Funciones lambda, map, filter y reduce -métodos de la programación funciona
 
 04072023
