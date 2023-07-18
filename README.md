@@ -1,4 +1,4 @@
-# cursomachinelearning
+# machinelearning
 M5_03_Bucles.ipynb contiene repetir utilizando while con contador, Break para romper un bucle -evita los bucles infinitos, continue dentro del cuerpo del bucle para saltar a la siguiente instrucción, iterar utilizando for, la función range(start,stop,step),operador lógico in y bucles anidados.
 M5_02_Condicionales(1).ipynb Operadores de comparación, diagrama de flujo.
 pandas.ipynb Las librerías pandas y numpy son importadas para utilizar metodos y funciones. El DataFrame con una estructura de tabla para los datos del archivo csv se crea, contenida en la Biblioteca Pandas, utiliza head() para ver los primeros registros, tail para ver un determinado número de los últimos registros(numero_observaciones); lista lista_columnas conteniendo dos características, diccionario Ejercicio 4; Series mecanismos para datos; localizar nulos y asimilados
